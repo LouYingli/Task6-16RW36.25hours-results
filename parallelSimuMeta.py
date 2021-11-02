@@ -112,7 +112,7 @@ def parallelSimu(climate,round_num,model_type,schedule):
     #record the start time
     start = time.time()
     #eplus_path ='/usr/EnergyPlus/energyplus-8.7.0'
-    eplus_path ='energyplus'
+    eplus_path ='energyplus8'
     weather_file ='./SourceFolder/'+climate+'.epw'
     output_file = 'temp'
     # get parameter value    
