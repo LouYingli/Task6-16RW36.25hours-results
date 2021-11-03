@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --nodes=1
 #SBATCH --ntasks=6
-#SBATCH --time=00-15
+#SBATCH --time=00-14
 #SBATCH --partition=shas      
 #SBATCH --qos=long
 #SBATCH --output=sample-%j.out

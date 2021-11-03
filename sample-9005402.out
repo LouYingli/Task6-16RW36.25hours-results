@@ -1,0 +1,4 @@
+  File "main.py", line 17
+    bEQ_schedule='Worship_MEETING_EQP_SCH''
+                                          ^
+SyntaxError: EOL while scanning string literal

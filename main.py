@@ -14,7 +14,7 @@ num_sens=1 # the number of model inputs
 min_value=8.072933 #the min value of plug load density (W/m2)
 max_value=18.94448 #the max value of plug load density (W/m2)
 ASHRAEModel_schedule='Worship_MEETING_EQP_SCH'
-bEQ_schedule='Worship_MEETING_EQP_SCH''
+bEQ_schedule='Worship_MEETING_EQP_SCH'
 
 ######################################################################################
 #1.sampleing: get different value of model input (LHM)
